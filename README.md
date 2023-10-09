@@ -1,12 +1,12 @@
-# 1999491-Semaforo-Practica-1
-Este es un sistema de un semáforo con calles y coches realizado, esto para una práctica de laboratorio de la materia del laboratorio de sistemas adaptativos.
+# 1999491-Sistemacomplejo-Practica-2
+Este son 2 programas, el primer programa te genera un grafo a partir de una red de amigos, y te realiza un archivo .txt con una matriz de adyacencia del grafo. y el segundo programa lee el archivo, con la matriz y te calcula las aristas, grados y vértices que tiene según la matriz del grafo.
 
-**PRACTICA DE CONTROL DE SEMAFOROS** </p><p>
+**PRACTICA DE SISTEMAS COMPLEJOS** </p><p>
 Carrera: ITS</p><p>
 <a name="_toc145146763"></a>**Laboratorio de Sistemas Adaptativos**</p><p>
 Martes V3 </p><p>
 Grupo: 205</p><p>
-08 – Septiembre - 2023</p><p></p><p>Martes V3 </p><p>
+08 – Octubre - 2023</p><p></p><p>Martes V3 </p><p>
 
 
 **INDICE**
