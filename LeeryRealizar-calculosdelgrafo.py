@@ -1,6 +1,10 @@
 '''
+Elaboro
 
-1999491  Francisco Javier Blas Garza    Laboratorio de Sistemas Adaptativos Martes 205
+1999491  Francisco Javier Blas Garza    
+2007872 Kevin Eduardo Guajardo Vigil
+
+Laboratorio de Sistemas Adaptativos Martes 205
 
 Sistema que lee archivos de matrices de adyacencia y calcula valores 
 de m vertices, grado de cada vertices y n vertices.
@@ -23,6 +27,8 @@ nombre_archivo = 'matriz_adyacencia.txt'  # reemplaza esto con el nombre de tu a
 matriz = leer_matriz_desde_archivo(nombre_archivo)
 n, m, grados = calcular_valores(matriz)
 
+
 print(f'Cantidad de vértices (n): {n}')
 print(f'Cantidad de aristas (m): {m}')
 print('Grado de cada vértice:' , grados)
+
